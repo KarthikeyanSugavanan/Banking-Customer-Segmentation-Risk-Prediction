@@ -180,18 +180,6 @@ jupyter notebook notebooks/Banking_Risk_Prediction_Complete.ipynb
 - **Recall**: 75%+ (Target achieved)
 - **F1 Score**: 77%+ (Target achieved)
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/NewFeature`)
-3. Commit your changes (`git commit -m 'Add NewFeature'`)
-4. Push to the branch (`git push origin feature/NewFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact Information
 
 **Project Author**: Karthikeyan Sugavanan  
@@ -210,12 +198,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Open-source machine learning libraries and their contributors
 - Academic research community for foundational algorithms
 
-## Documentation Links
-
-- [Technical Documentation](your-docs-link)
-- [API Reference Guide](your-api-docs)
-- [Implementation Handbook](your-implementation-guide)
-- [Business Case Study](your-business-case)
 
 ---
 
