@@ -1,0 +1,185 @@
+# Banking Risk Prediction - Git Ignore File
+
+# Data Files (Large files excluded from repository)
+*.csv
+train_data.csv
+test_data.csv
+train_labels.csv
+data/
+datasets/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Machine Learning Models and Large Files
+*.pkl
+*.joblib
+*.h5
+*.pb
+*.onnx
+models/
+checkpoints/
+
+# TensorFlow
+*.tfrecords
+*.tfstate
+*.tfstate.*
+
+# PyTorch
+*.pth
+*.pt
+
+# Results and Outputs
+results/models/
+results/plots/
+results/*.html
+results/*.pdf
+visualizations/*.png
+visualizations/*.jpg
+visualizations/*.html
+
+# System Files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# IDEs and Editors
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+
+# Emacs
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# Logs and Temporary Files
+*.log
+*.tmp
+*.temp
+logs/
+tmp/
+
+# Security and Configuration
+.env
+.env.local
+.env.*.local
+config.ini
+secrets.json
+credentials.json
+*.key
+*.pem
+
+# Backup Files
+*.bak
+*.backup
+*.old 
