@@ -17,6 +17,10 @@ A comprehensive production-ready solution for banking risk prediction using the 
 - **Operational Efficiency**: 50% reduction in manual review processes
 - **Return on Investment**: 300%+ ROI within first year
 
+## Dataset Used:
+- **Link**: https://www.kaggle.com/competitions/amex-default-prediction/data
+
+
 ## Model Performance Results
 
 | Model | AUC Score | Performance Level |
